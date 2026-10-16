@@ -1,4 +1,4 @@
-# Kink Jars
+# Kink Jars Muscle
 
 A single-page questionnaire: pick a color, rate each jar 1–5, save a PNG.
 Everything runs in the browser. Nothing is uploaded, and answers are only kept in that person's browser (localStorage) so a refresh doesn't wipe them.
